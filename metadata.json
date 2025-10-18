@@ -1,0 +1,5 @@
+{
+  "name": "Brosteve AI Tech",
+  "description": "An application that allows users to upload an image and enter a text prompt to either generate a new image or edit the uploaded one using the Gemini 2.5 Flash Image model, similar to Google's Nano Banana.",
+  "requestFramePermissions": []
+}
